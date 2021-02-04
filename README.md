@@ -26,8 +26,8 @@ To get a local copy up and running follow these simple example steps:
 
 - Fork this project
 - Open your terminal
-- Clone this project `git clone https://github.com/wandji20/micro-reddit.git`
-- Go to the project folder `cd micro-reddit`
+- Clone this project `git clone git@github.com:akshay-narkar/micro-reddit-rails.git`
+- Go to the project folder `cd micro-reddit-rails`
 
 ### Install
 
